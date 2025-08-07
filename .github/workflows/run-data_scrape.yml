@@ -1,0 +1,5 @@
+name: EPL Data Scraping
+
+on:
+  schedule:
+  - cron:
